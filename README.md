@@ -24,4 +24,4 @@ This project analyzes the Titanic dataset to understand survival patterns based 
 - Titanic Dataset (.csv)
 
 ## 👨‍💻 Author
-Naman Mudgal
+Rahul Prajapat
